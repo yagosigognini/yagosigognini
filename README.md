@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/yagosigognini/yagosigognini/blob/main/Imagem%20do%20WhatsApp%20de%202024-06-06%20%C3%A0(s)%2021.33.29_54912caf.jpg"  />
+<img align="right" height="150" src="https://github.com/yagosigognini/yagosigognini/blob/main/yagora.png"  />
 
 ###
 
